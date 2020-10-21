@@ -4,10 +4,12 @@ NODE JS - command line application that is used to take in information about the
 
 ## Instalaton 
 
-git clone 
+git clone git@github.com:Srikar2020/Team-Profile-Generator.git
 
 ## Usage 
 
 After instaling run the node index.js 
 
 The walk through video will be posted on youtube and should be on canvas!
+
+https://youtu.be/QnwGw-sRl2M
